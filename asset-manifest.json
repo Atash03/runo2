@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/runo2/static/css/main.a7a0966a.css",
+    "main.js": "/runo2/static/js/main.7cb7a9f2.js",
+    "static/media/big-post.jpg": "/runo2/static/media/big-post.bd084f74532ff0687af1.jpg",
+    "static/media/intro-bg.jpg": "/runo2/static/media/intro-bg.4f0bc2d359f12a645be8.jpg",
+    "static/media/about-bg.jpg": "/runo2/static/media/about-bg.2e87c7322026d0ec91cc.jpg",
+    "static/media/blog3.jpg": "/runo2/static/media/blog3.2d9386aad45b0d7574e9.jpg",
+    "static/media/post6.jpg": "/runo2/static/media/post6.876baf2847ecc3299441.jpg",
+    "static/media/blog1.jpg": "/runo2/static/media/blog1.8b44d68f641419adf25f.jpg",
+    "static/media/post1.jpg": "/runo2/static/media/post1.ae0e17615759425eb5a1.jpg",
+    "static/media/blog2.jpg": "/runo2/static/media/blog2.22b7af890141f8cbdc07.jpg",
+    "static/media/post3.jpg": "/runo2/static/media/post3.a65d1d49f73255269cb8.jpg",
+    "static/media/post4.jpg": "/runo2/static/media/post4.6e65780ed14d4b641771.jpg",
+    "static/media/post5.jpg": "/runo2/static/media/post5.a064fe3e400f6905bc5a.jpg",
+    "static/media/post7.jpg": "/runo2/static/media/post7.1d4f39962bb4685776a3.jpg",
+    "static/media/reel.png": "/runo2/static/media/reel.a101f128e16c32107920.png",
+    "static/media/article.jpg": "/runo2/static/media/article.23831305fc8d8996d19f.jpg",
+    "static/media/post2.jpg": "/runo2/static/media/post2.9c6b47af5fbbb6d3cb46.jpg",
+    "static/media/diaphragm.png": "/runo2/static/media/diaphragm.33fb5bf82babc6fbbeaa.png",
+    "static/media/gallery.png": "/runo2/static/media/gallery.fd3a136a75a0313f69b4.png",
+    "static/media/no-photo.png": "/runo2/static/media/no-photo.32b7e6d254ebfe3e2c74.png",
+    "static/media/post8.jpg": "/runo2/static/media/post8.26745daea12f42ee9042.jpg",
+    "index.html": "/runo2/index.html",
+    "main.a7a0966a.css.map": "/runo2/static/css/main.a7a0966a.css.map",
+    "main.7cb7a9f2.js.map": "/runo2/static/js/main.7cb7a9f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a0966a.css",
+    "static/js/main.7cb7a9f2.js"
+  ]
+}
