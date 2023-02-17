@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/runo2/static/css/main.6b3c9a5f.css",
+    "main.css": "/runo2/static/css/main.8c6f3343.css",
     "main.js": "/runo2/static/js/main.461befd3.js",
     "static/media/big-post.jpg": "/runo2/static/media/big-post.bd084f74532ff0687af1.jpg",
     "static/media/intro-bg.jpg": "/runo2/static/media/intro-bg.4f0bc2d359f12a645be8.jpg",
@@ -22,11 +22,11 @@
     "static/media/no-photo.png": "/runo2/static/media/no-photo.32b7e6d254ebfe3e2c74.png",
     "static/media/post8.jpg": "/runo2/static/media/post8.26745daea12f42ee9042.jpg",
     "index.html": "/runo2/index.html",
-    "main.6b3c9a5f.css.map": "/runo2/static/css/main.6b3c9a5f.css.map",
+    "main.8c6f3343.css.map": "/runo2/static/css/main.8c6f3343.css.map",
     "main.461befd3.js.map": "/runo2/static/js/main.461befd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b3c9a5f.css",
+    "static/css/main.8c6f3343.css",
     "static/js/main.461befd3.js"
   ]
 }
